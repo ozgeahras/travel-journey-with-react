@@ -1,4 +1,4 @@
-# Travel-Yourney With React
+# Travel Journey With React
 
 ## Overview
 
