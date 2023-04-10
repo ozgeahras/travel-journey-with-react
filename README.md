@@ -5,7 +5,7 @@
 ### Links
 
 - Solution URL: https://github.com/ozgeahras/travel-journey-with-react
-- Live Site URL:
+- Live Site URL: https://ozgeahras.github.io/travel-journey-with-react
 
 ## My Process
 
