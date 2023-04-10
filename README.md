@@ -11,7 +11,7 @@
 
 ## Create the App
 
-- npm create vite@latest travel-journey-with-react --template vue
+- npm create vite@latest travel-journey-with-react --template react
 
 ### How to run
 
