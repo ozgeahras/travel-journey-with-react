@@ -1,28 +1,27 @@
 # Travel Journey With React
 
+- React & Vite
+
 ## Overview
+
+- Props
 
 ### Links
 
 - Solution URL: https://github.com/ozgeahras/travel-journey-with-react
 - Live Site URL: https://ozgeahras.github.io/travel-journey-with-react
 
-## My Process
-
-## Create the App
-
-- npm create vite@latest travel-journey-with-react --template react
-
 ### How to run
 
-cd ..travel-journey-with-react
-npm install
-npm run dev
+$ git clone https://github.com/ozgeahras/travel-journey-with-react.git
+$ cd ..travel-journey-with-react
+$ npm install
+$ npm run dev
 
 ## Author
 
--Özge Ahras
+- Özge Ahras
 
 ## Source
 
-scrimba.com
+- https://scrimba.com/learn/frontend
