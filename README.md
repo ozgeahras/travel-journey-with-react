@@ -13,10 +13,10 @@
 
 ### How to run
 
-$ git clone https://github.com/ozgeahras/travel-journey-with-react.git
-$ cd ..travel-journey-with-react
-$ npm install
-$ npm run dev
+- git clone https://github.com/ozgeahras/travel-journey-with-react.git
+- cd ..travel-journey-with-react
+- npm install
+- npm run dev
 
 ## Author
 
